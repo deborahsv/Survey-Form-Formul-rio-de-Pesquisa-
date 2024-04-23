@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Hello Kitty Form</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="surveyformstyles.css">
 </head>
 <body>
   <fieldset>
