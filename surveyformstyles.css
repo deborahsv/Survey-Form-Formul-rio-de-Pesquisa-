@@ -1,0 +1,93 @@
+body {
+background-image: url(https://i.pinimg.com/564x/e5/ca/7c/e5ca7c1a77ac20f2e5ac2806559c1112.jpg);
+    background-size: cover; 
+    background-position: center; 
+}
+
+.form-group1 {
+display: inline-block;
+width: 400px; 
+height: 35px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"], select, textarea {
+width: 250px;
+height: 25px;
+padding: auto;
+box-sizing: border-box;
+}
+
+label {
+font-weight: bold;
+}
+
+
+input[type="maybe"]{
+  margin: 10px 10px 10px 0;
+  width: 100%;
+  height: 30px;
+}
+
+.textarea {
+  margin: 0;
+  width: 10%;
+  height: 30px;
+}
+
+.select {
+  margin: 10px 10px 10px 0;
+  width: 100%;
+  height: 30px;
+}
+
+h1, p {             
+margin: 20px 10px;  
+text-align: center;
+box-sizing: border-box;
+}
+
+.title1 {
+ background-color: rgb(202, 10, 46);
+    padding: 0; 
+    margin: 0; 
+    color: white;
+    border: 1px solid black;
+    letter-spacing: 5px; 
+    font-size: 16px; 
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+    outline: none; 
+}
+label {
+    font-weight: bold;
+    border: none; /* Adiciona esta linha para remover a borda automática do label */
+}
+.bordered-text {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+form {
+  margin-top: 60px; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 80%; 
+  background-color: rgb(202, 10, 46);
+  box-sizing: border-box;
+  padding: 20px;
+  max-width: 500px;
+  border: 2px solid black;
+  color: white;
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; 
+}
+
+input[type="submit"] {
+    background-color: rgb(10, 33, 185); 
+    color: white; 
+    padding: 5px 20px; 
+    font-size: 16px; 
+    display: block; 
+    margin: 10px auto; 
+}
