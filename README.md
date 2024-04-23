@@ -74,7 +74,8 @@
 </body>
 </html>
 
-/* styles.css */
+```css
+
 body {
 background-image: url(https://i.pinimg.com/564x/e5/ca/7c/e5ca7c1a77ac20f2e5ac2806559c1112.jpg);
     background-size: cover; 
